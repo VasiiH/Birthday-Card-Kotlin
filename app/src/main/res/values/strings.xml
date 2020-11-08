@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BirthDayCard</string>
+    <string name="happy_birthday_text">Happy Birthday Flutter</string>
+    <string name="from">From vasi</string>
+    <string name="todo">TODO</string>
+
+</resources>
